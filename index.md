@@ -20,15 +20,15 @@ Our research group propose a large-scale benchmark dataset for object detection 
 
 <span id = "News"/>
 
-### [News](#/news)
+### [News](/news)
 
 <span id = "Publications"/>
 
 ### [Publications]
 
-#### [Journal Papers](#/papers/#Journal)
+#### [Journal Papers](/papers/#Journal)
 
-#### [Conference Papers](#/papers/#Conference)
+#### [Conference Papers](/papers/#Conference)
 
 <span id = "DataSets"/>
 
