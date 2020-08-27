@@ -9,7 +9,7 @@
 **NWPU-RESISC45 dataset**  is  a  publicly  available  benchmark  for  REmote  Sensing  Image  Scene Classification (RESISC), created by Northwestern Polytechnical University (NWPU). This dataset contains 31,500 images, covering 45 scene classes with 700 images in each class. These 45 scene classes include airplane, airport, baseball diamond, basketball court, beach, bridge, chaparral, church, circularfarmland, cloud, commercial area, dense residential, desert, forest, freeway, golf course, ground track field, harbor, industrial area, intersection, island, lake, meadow, medium residential, mobile home park, mountain, overpass, palace, parking lot, railway, railway station, rectangular farmland, river, roundabout, runway, sea ice, ship, snowberg, sparse residential, stadium, storage tank, tennis court, terrace, thermal power station, and wetland.
 
 Please cite the following paper when publishing results that use this dataset fully or partly:
-- Gong Cheng, Junwei Han, Xiaoqiang Lu. Remote Sensing Image Scene Classification: **Benchmark and State of the Art**. Proceedings of the IEEE, 105(10): 1865-1883, 2017.
+- Gong Cheng, Junwei Han, Xiaoqiang Lu. **Remote Sensing Image Scene Classification: Benchmark and State of the Art**. Proceedings of the IEEE, 105(10): 1865-1883, 2017.
 
 This dataset can be downloaded from [OneDrive](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs) or [BaiduWangpan](https://pan.baidu.com/s/1mifR6tU).
 
