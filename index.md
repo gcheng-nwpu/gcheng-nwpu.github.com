@@ -1,9 +1,4 @@
-
-<center>
-
 # | [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
-
-</center>
 
 --------------------
 
