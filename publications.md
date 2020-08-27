@@ -1,6 +1,8 @@
 # | [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
 
-### [Publications]
+### Publications
+
+<span id = "Journal"/>
 
 #### Journal Papers
 
@@ -34,6 +36,8 @@
 [3] Gong Cheng, Lei Guo, Tianyun Zhao, Junwei Han, Huihui Li, Jun Fang. Automatic landslide detection from remote-sensing imagery using a scene classification method based on BoVWand pLSA. International Journal of Remote Sensing, 34(1): 45-59, 2013.
 [2] Xiaoliang Qian, Junwei Han, Gong Cheng, Lei Guo. Optimal contrast based saliency detection. Pattern Recognition Letters, 34(11):1270-1278, 2013.
 [1] Gong Cheng, Junwei Han, Lei Guo, Xiaoliang Qian, Peicheng Zhou, Xiwen Yao, XintaoHu. Object detection in remote sensing imagery using a discriminatively trained mixture model. ISPRS Journal of Photogrammetry and Remote Sensing, 85: 32-43, 2013.
+
+<span id = "Conference"/>
 
 #### Conference Papers
 
