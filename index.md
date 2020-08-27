@@ -20,15 +20,15 @@ Our research group propose a large-scale benchmark dataset for object detection 
 
 <span id = "News"/>
 
-### [News]
+### [News](#/news)
 
 <span id = "Publications"/>
 
 ### [Publications]
 
-#### [Journal Papers](https://cg-team-nwpu.github.io/cg.github.com/)
+#### [Journal Papers](#/papers/#Journal)
 
-#### [Conference Papers](https://cg-team-nwpu.github.io/cg.github.com/)
+#### [Conference Papers](#/papers/#Conference)
 
 <span id = "DataSets"/>
 
