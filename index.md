@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Gong Cheng (程塨)
+Northwestern Polytechnical University, Ph.D, Professor
+Research Interests: Computer Vision, Deep Learning, Pattern Recognition, Remote Sensing Image Analysis
 
-You can use the [editor on GitHub](https://github.com/CG-team-nwpu/cg.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Home
+Gong Cheng received the B.S. degree from Xidian University, Xi’an, China, in 2007, and the M.S. and Ph.D. degrees from Northwestern Polytechnical University, Xi’an, China, in 2010 and 2013, respectively. His is currently a Professor with Northwestern Polytechnical University, Xi’an, China. His main research interests are computer vision, pattern recognition, and remote sensing image analysis. He has published more than 40 papers in top journals and top conferences including Proceedings of the IEEE, IEEE SPM, IEEE T-PAMI, IEEE T-IP, IEEE T-CSVT, IEEE T-GRS, IEEE CVPR, IJCAI, and ACM MM. 16 of his papers have been recognized as ESI highly cited papers and 9 of them have been recognized as ESI hot papers. His list of publications is available at [Google scholor](https://scholar.google.com/citations?user=dw1n0vIAAAAJ&hl=zh-CN). He has been recognized as the 2018 Best Reviewer for IEEE JSTARS, and also the 2017&2018 Best Reviewer for IEEE GRSL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our research group release a large-scale benchmark dataset for remote sensing image scene classification, termed "NWPU-RESISC45", which consists of 31,500 images covered by 45 scene classes.
 
-### Markdown
+Our research group propose a large-scale benchmark dataset for object detection in optical remote sensing images, termed "DIOR", which consists of 23,463 images and 192,472 object instances.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CG-team-nwpu/cg.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Email: gcheng@nwpu.edu.cn; chenggong1119@gmail.com
