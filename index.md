@@ -1,16 +1,17 @@
+
+<center>
+
+# | [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
+
+</center>
+
+--------------------
+
 ## Gong Cheng (程塨)
 
 **Northwestern Polytechnical University, Ph.D, Professor**
 
 **Research Interests: Computer Vision, Deep Learning, Pattern Recognition, Remote Sensing Image Analysis**
-
---------------------
-
-<center>
-
-### [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
-
-</center>
 
 --------------------
 
