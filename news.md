@@ -1,3 +1,7 @@
+# | [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
+
+### [News]
+
 - 2019.11.25, one paper is accepted by ISPRS JPRS (IF: 6.942).
 - 2019.10.1, one paper is accepted by ISPRS JPRS (IF: 6.942).
 - 2019.7.27, one paper is accepted by IEEE TPAMI.
