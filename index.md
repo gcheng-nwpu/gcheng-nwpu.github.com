@@ -30,11 +30,11 @@ Our research group propose a large-scale benchmark dataset for object detection 
 
 <span id = "Publications"/>
 
-### [Publications](#Publications)
+### [Publications](#publications)
 
-#### [Journal Papers](/papers/#Journal)
+#### [Journal Papers](/publications/#Journal)
 
-#### [Conference Papers](/papers/#Conference)
+#### [Conference Papers](/publications/#Conference)
 
 --------------------
 
