@@ -24,19 +24,19 @@ Our research group propose a large-scale benchmark dataset for object detection 
 
 ### [Publications](/publications)
 
-- [Journal Papers](/publications/#Journal)
+- [Journal Papers](/publications#Journal)
 
-- [Conference Papers](/publications/#Conference)
+- [Conference Papers](/publications#Conference)
 
 --------------------
 
 ### [DataSets](/datasets)
 
-- [NWPU-RESISC45 Dataset](/datasets/#RESISC45)
+- [NWPU-RESISC45 Dataset](/datasets#RESISC45)
 
-- [DIOR dataset](/datasets/#DIOR)
+- [DIOR dataset](/datasets#DIOR)
 
-- [NWPU VHR-10 dataset](/datasets/#VHR10)
+- [NWPU VHR-10 dataset](/datasets#VHR10)
 
 --------------------
 
