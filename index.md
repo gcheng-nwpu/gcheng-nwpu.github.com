@@ -1,8 +1,8 @@
 ## Gong Cheng (程塨)
 
-Northwestern Polytechnical University, Ph.D, Professor
+**Northwestern Polytechnical University, Ph.D, Professor**
 
-Research Interests: Computer Vision, Deep Learning, Pattern Recognition, Remote Sensing Image Analysis
+**Research Interests: Computer Vision, Deep Learning, Pattern Recognition, Remote Sensing Image Analysis**
 
 ### Home
 
@@ -13,4 +13,5 @@ Our research group release a large-scale benchmark dataset for remote sensing im
 Our research group propose a large-scale benchmark dataset for object detection in optical remote sensing images, termed "DIOR", which consists of 23,463 images and 192,472 object instances.
 
 ### Contact
+
 Email: gcheng@nwpu.edu.cn; chenggong1119@gmail.com
