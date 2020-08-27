@@ -1,4 +1,4 @@
-### [Home](/#Home) | [News](/#News) | [Publications](/#Publications) | [DataSets](/#DataSets) | [Contact](/#Contact)
+### [Home](/) | [News](/news) | [Publications](/publications) | [DataSets](/dataSets) | [Contact](/#Contact)
 
 ### Publications
 
