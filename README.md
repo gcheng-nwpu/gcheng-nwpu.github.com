@@ -1,1 +1,1 @@
-# cg-team-nwpu.github.com
+# https://cg-team-nwpu.github.io/
