@@ -4,7 +4,13 @@
 
 **Research Interests: Computer Vision, Deep Learning, Pattern Recognition, Remote Sensing Image Analysis**
 
-| [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
+--------------------
+
+<center>
+
+### [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
+
+</center>
 
 --------------------
 
