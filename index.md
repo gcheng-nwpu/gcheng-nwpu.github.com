@@ -6,7 +6,7 @@
 
 | [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact) |
 
--------------------------
+--------------------
 
 <span id = "Home"/>
 
@@ -18,9 +18,13 @@ Our research group release a large-scale benchmark dataset for remote sensing im
 
 Our research group propose a large-scale benchmark dataset for object detection in optical remote sensing images, termed "DIOR", which consists of 23,463 images and 192,472 object instances.
 
+--------------------
+
 <span id = "News"/>
 
 ### [News](/news)
+
+--------------------
 
 <span id = "Publications"/>
 
@@ -29,6 +33,8 @@ Our research group propose a large-scale benchmark dataset for object detection 
 #### [Journal Papers](/papers/#Journal)
 
 #### [Conference Papers](/papers/#Conference)
+
+--------------------
 
 <span id = "DataSets"/>
 
@@ -62,6 +68,8 @@ Please cite the following relevant papers when publishing results that use this 
 - Gong Cheng, Peicheng Zhou, Junwei Han. **Learning rotation-invariant convolutional neural networks for object detection in VHR optical remote sensing images**. IEEE Transactions on Geoscience and Remote Sensing, 54(12): 7405-7415, 2016.
 
 This dataset can be downloaded from [OneDrive](https://1drv.ms/u/s!AmgKYzARBl5cczaUNysmiFRH4eE) or [BaiduWangpan](https://pan.baidu.com/s/1hqwzXeG).
+
+--------------------
 
 <span id = "Contact"/>
 
