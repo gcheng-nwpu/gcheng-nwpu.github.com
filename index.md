@@ -1,4 +1,4 @@
-### [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact)
+### [Home](#Home) | [News](/news) | [Publications](/publications) | [DataSets](/dataSets) | [Contact](#Contact)
 
 --------------------
 
@@ -19,12 +19,6 @@ Gong Cheng received the B.S. degree from Xidian University, Xi’an, China, in 2
 Our research group release a large-scale benchmark dataset for remote sensing image scene classification, termed "NWPU-RESISC45", which consists of 31,500 images covered by 45 scene classes.
 
 Our research group propose a large-scale benchmark dataset for object detection in optical remote sensing images, termed "DIOR", which consists of 23,463 images and 192,472 object instances.
-
---------------------
-
-<span id = "News"/>
-
-### [News](/news)
 
 --------------------
 
