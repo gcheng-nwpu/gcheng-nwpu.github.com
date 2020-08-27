@@ -1,6 +1,6 @@
-### [Home](#Home) | [News](#News) | [Publications](#Publications) | [DataSets](#DataSets) | [Contact](#Contact)
+### [Home](/#Home) | [News](/#News) | [Publications](/#Publications) | [DataSets](/#DataSets) | [Contact](/#Contact)
 
-### [DataSets](/datasets)
+### DataSets
 
 <span id = "RESISC45"/>
 
